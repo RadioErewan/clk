@@ -10,7 +10,7 @@ import requests
 import arrow
 import textwrap
 
-#ICS URL
+#ICS URL - ICS has to be accessible to anyone (might be read only) as we are not doing any preauth on google
 icsurl = "https://calendar.google.com/calendar/ical/gfh9vebps3t1fqu4mqvvpfd8ro%40group.calendar.google.com/public/basic.ics"
 
 ## Font paths preconfiguration
@@ -91,6 +91,8 @@ def main():
             if thetime.timetuple()[5] == 0:
                 icscalendar = Calendar(requests.get(icsurl).text)
                 icstimeline = icscalendar.timeline
+        # printing current minute as a way of showing we are alive (happens once a minute)
+                print ('{:02d}:{:02d}:{:02d}\n'.format(thetime.timetuple()[3],thetime.timetuple()[4],thetime.timetuple()[5]))
         #some bitmap procesing using PIL
             img_pil = Image.fromarray(img)
         #centering time on the image
