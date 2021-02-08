@@ -34,7 +34,7 @@ color3 = ImageColor.getrgb("#00ff00ff")
 #red color with alpha
 b,g,r,a = 255,0,0,255
 #Rundown switch
-emptyeundown = True
+emptyrundown = True
 # loading logo
 logo = Image.open("./image/add.png")
 
@@ -65,6 +65,9 @@ def main():
 
     currenttime = datetime.datetime.today()
     seconds = currenttime.timetuple()[5]
+## Giving "alive" feedback
+    print ('Initialising\t{:02d}:{:02d}:{:02d}'.format(currenttime.timetuple()[3],currenttime.timetuple()[4],currenttime.timetuple()[5]))
+
 ## loading image zegarxx.png where xx is number of seconds elapsed in current minute
     img = cv.imread('./image/zegar{:02d}.png'.format(seconds),cv.IMREAD_UNCHANGED)
     img = cv.cvtColor(img, cv.COLOR_BGRA2RGBA)
@@ -92,7 +95,7 @@ def main():
                 icscalendar = Calendar(requests.get(icsurl).text)
                 icstimeline = icscalendar.timeline
         # printing current minute as a way of showing we are alive (happens once a minute)
-                print ('{:02d}:{:02d}:{:02d}\n'.format(thetime.timetuple()[3],thetime.timetuple()[4],thetime.timetuple()[5]))
+                print ('Still alive\t{:02d}:{:02d}:{:02d}'.format(thetime.timetuple()[3],thetime.timetuple()[4],thetime.timetuple()[5]))
         #some bitmap procesing using PIL
             img_pil = Image.fromarray(img)
         #centering time on the image
