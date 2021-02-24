@@ -11,7 +11,7 @@ import arrow
 import textwrap
 
 #ICS URL - ICS has to be accessible to anyone (might be read only) as we are not doing any preauth on google
-icsurl = "https://calendar.google.com/calendar/ical/gfh9vebps3t1fqu4mqvvpfd8ro%40group.calendar.google.com/public/basic.ics"
+icsurl = "./basic.ics"
 
 ## Font paths preconfiguration
 fontpath1 = "./jb.ttf"   
@@ -78,7 +78,8 @@ def main():
     thetime = datetime.datetime.today()
     entrytime = thetime.timetuple()[5]
 
-    icscalendar = Calendar(requests.get(icsurl).text)
+    f = open(icsurl, "r")
+    icscalendar = Calendar(f.read())
     icstimeline = icscalendar.timeline
 
     while True:
@@ -92,7 +93,8 @@ def main():
             img = cv.cvtColor(img, cv.COLOR_BGRA2RGBA)  
         #if seconds equals 0 (new minute) reload ics 
             if thetime.timetuple()[5] == 0:
-                icscalendar = Calendar(requests.get(icsurl).text)
+                f = open(icsurl, "r")
+                icscalendar = Calendar(f.read())
                 icstimeline = icscalendar.timeline
         # printing current minute as a way of showing we are alive (happens once a minute)
                 print ('Still alive\t{:02d}:{:02d}:{:02d}'.format(thetime.timetuple()[3],thetime.timetuple()[4],thetime.timetuple()[5]))

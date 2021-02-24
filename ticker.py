@@ -19,7 +19,7 @@ fontpath2 = "./jb.ttf"
 fontpath3 = "./jb.ttf"
 fontpath4 = "./jb.ttf"
 fontpath5 = "./jb.ttf"
-    
+
 
 font1 = ImageFont.truetype(fontpath1, 115)
 font2 = ImageFont.truetype(fontpath2, 65)
@@ -80,12 +80,17 @@ def main():
 
     icscalendar = Calendar(requests.get(icsurl).text)
     icstimeline = icscalendar.timeline
-
+    cnt = 0
     while True:
     #peek current time
+        timedelta = datetime.datetime.today() - thetime
         thetime = datetime.datetime.today()     
         #if seconds differ with last load   
-        if thetime.timetuple()[5] != entrytime :
+        if timedelta.microseconds >= 33333 :
+            cnt += 1
+            if cnt == 30 :
+                print (datetime.datetime.today())
+                cnt = 0
         #read the clock face
             img = cv.imread('./image/zegar{:02d}.png'.format(thetime.timetuple()[5]),cv.IMREAD_UNCHANGED)
         #convert color to rgba (with alpha)
@@ -176,8 +181,6 @@ def main():
             video_frame.data = img
             video_frame.FourCC = ndi.FOURCC_VIDEO_TYPE_RGBA            
 #record second of processing
-            thetime = datetime.datetime.today()
-            entrytime = thetime.timetuple()[5]
 #send video frame
             ndi.send_send_video_v2(ndi_send, video_frame)
 
