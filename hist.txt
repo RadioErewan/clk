@@ -1,0 +1,500 @@
+    7  conda activate base
+    8   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 55174 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+    9   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 55384 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   10   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 49268 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   11   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 49249 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   12   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63590 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   13  source /Users/radek/opt/anaconda3/bin/activate
+   14  conda activate base
+   15  from ics import Calendar
+   16  import requests
+   17  python3
+   18   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 55191 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   19  source /Users/radek/opt/anaconda3/bin/activate
+   20  conda activate base
+   21  pip3 install ics.py
+   22  pip3 install ics
+   23  python3
+   24   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63829 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   25  source /Users/radek/opt/anaconda3/bin/activate
+   26  conda activate base
+   27   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63849 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   28   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63867 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   29  python3
+   30   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63961 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   31  source /Users/radek/opt/anaconda3/bin/activate
+   32  conda activate base
+   33   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63987 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   34   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64041 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   35   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64051 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   36   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64129 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   37   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64140 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   38   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64151 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   39   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64165 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   40   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64178 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   41   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64211 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   42   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64248 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   43   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64286 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   44   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64342 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   45   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64362 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   46   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64392 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   47   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64423 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   48   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64459 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   49   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64541 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   50   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64569 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   51   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64619 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   52   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 49629 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   53  source /Users/radek/opt/anaconda3/bin/activate
+   54  conda activate base
+   55   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51057 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   56   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51084 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   57   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51119 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   58   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51152 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   59   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51266 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   60   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51303 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   61   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51314 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   62   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51349 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   63   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51450 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   64   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51475 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   65   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51486 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   66   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51509 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   67   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51602 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   68   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51631 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   69   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 49455 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   70  source /Users/radek/opt/anaconda3/bin/activate
+   71  conda activate base
+   72   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 50746 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   73   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 61114 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   74  mc
+   75  sudo mc
+   76  cd ~
+   77  cd documents
+   78  cd aws
+   79  ssh -i "RadioTest2EUAWS.pem" ubuntu@ec2-18-195-230-160.eu-central-1.compute.amazonaws.com
+   80  ssh -i "RadioTest2EUAWS.pem" ubuntu@ec2-18-195-230-160.eu-central-1.compute.amazonaws.com
+   81   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 49755 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   82  source /Users/radek/opt/anaconda3/bin/activate
+   83  conda activate base
+   84   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 53198 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+   85  ls
+   86  cd tmp
+   87  cd bycalboniebyc/
+   88  ls
+   89  ffmpeg
+   90  ls
+   91  ffmpeg -i Clip0001.MXF 
+   92  ffmpeg -i Clip0001.MXF -acodec copy pcm1.wav 
+   93  ffmpeg -i Clip0001.MXF -acodec copy -map 0:1 pcm01.wav 
+   94  ffmpeg -i Clip0001.MXF -acodec copy -map 0:2 pcm01.wav 
+   95  ffmpeg -i Clip0001.MXF -acodec copy -map 0:2 pcm02.wav 
+   96  ffmpeg -i Clip0001.MXF -acodec copy -map 0:3 pcm03.wav 
+   97  ffmpeg -i Clip0001.MXF -acodec copy -map 0:4 pcm03.wav 
+   98  ffmpeg -i Clip0001.MXF -acodec copy -map 0:4 pcm04.wav 
+   99  ffmpeg -i Clip0001.MXF -vcodec copy -map 0:0 mp01.mp4 
+  100  ls
+  101  ffmpeg -i Clip0002.MXF -vcodec copy -map 0:0 mp01.mp4 
+  102  ffmpeg -i Clip0002.MXF -vcodec copy -map 0:0 mp02.mp4 
+  103  FOR %%a IN (*.mxf) DO (ffmpeg -y -i "%%a" -vcodec copy -acodec ac3 -ar 48000 -ac 2 -ab 448k "%%~na.ts")
+  104  ffmpeg -y -i Clip0001.mxf -vcodec copy -acodec ac3 -ar 48000 -ac 2 -ab 448k 01.ts
+  105  ffmpeg -y -i Clip0002.mxf -vcodec copy -acodec ac3 -ar 48000 -ac 2 -ab 448k 02.ts
+  106  ffmpeg -y -i Clip0002.mxf -c:v libx264 -crf 18  -acodec ac3 -ar 48000 -ac 2 -ab 448k 02.mp4
+  107  ffmpeg -y -i Clip0002.mxf -c:v libx264 -crf 18  -acodec ac3 -ar 48000 -ac 2 -ab 448k 02.mp4
+  108  ffmpeg -i Clip0002.MXF -acodec copy -map 0:2 pcm21.wav 
+  109  ffmpeg -i Clip0001.MXF -acodec copy -map 0:1 pcm11.wav 
+  110  ffmpeg -i 03.mov -acodec copy -map 0:1 pcm31.wav 
+  111  ffmpeg -i 03.mov
+  112  ffmpeg -i 03.mov -acodec copy -map 0:1 pcm31.aac 
+  113  ffmpeg -i 03.mov
+  114  ffmpeg -i 03.mov
+  115  ffmpeg -i 03.mov -acodec copy -map 0:1 pcm31.aac ls
+  116  ls
+  117  ffmpeg -i C0001.MP4
+  118  ffmpeg -i c0001.mp4 -acodec copy -map 0:1 pcm41.wav
+  119  ls
+  120  ffmpeg -i c0001.mp4
+  121  ffmpeg -i c0001.mp4 -timecode 01:00:23:24 -r 25  -codec copy c0001.mp4
+  122  ffmpeg -i c0001.mp4 -timecode 01:00:23:24 -r 25  -codec copy c0001a.mp4
+  123  ffmpeg -i c0001.mp4 -timecode 01:00:23:24 -r 25  -acodec copy -vcodec copy c0001a.mp4
+  124  pip3 install pythonmagic
+  125  sudo pip3 install pythonmagic
+  126  brew install pythonmagic
+  127  pip3 install python-magic
+  128   brew install libmagic
+  129  brew install imagemagick
+  130  magick logo: logo.gif
+  131  identify logo.gif
+  132  display logo.gif
+  133  ls
+  134  cd tmp
+  135  ls
+  136  cd bycalboniebyc/
+  137  ls
+  138  magick identify -format "%[dpx:television.time.code]" c0004,mp3
+  139  magick identify -format  c0004.mp3
+  140  magick identify -format "%[dpx:television.time.code]" c0004.mp3
+  141  magick identify -format "%[dpx:television.time.code]" c0004.mp4
+  142  magick identify c0004.mp4
+  143  ls
+  144  ffmpeg -i c0001.mp4
+  145  ffmpeg -i downsize.mp4
+  146  ffmpeg -i 03.mov
+  147  ffmpeg -i 03.mov -map 0 -c copy -metadata timecode="02:11:11:00" -metadata artist="Radek" 03.mov
+  148  ffmpeg -i 03.mov -map 0 -c copy -metadata timecode="02:11:11:00" -metadata artist="Radek" 03a.mov
+  149  ffmpeg -i 03a.mov
+  150  ffmpeg -i 03a.mov -map 0 -c copy -metadata timecode="02:11:11:00" 03a.mov
+  151  ffmpeg -i 03.mov -map 0 -c copy -metadata timecode="02:11:11:00" 03a.mov
+  152  magick identify -format
+  153  magick identify -format 03.mov
+  154  magick identify 03.mov
+  155  exiftool
+  156  ls
+  157  exiftool
+  158  ffmpeg -i 03.mov -map 0:2 -c copy -metadata timecode="02:11:11:00" 03a.mov
+  159  exit
+  160  exiftool
+  161  ls
+  162  cd /Volumes/ArchiwaTV/Michel\ Trifolion\ 20201126/Smallest\ cam/PRIVATE/M4ROOT/CLIP/
+  163  ls
+  164  ffmpeg -i c0001.mp4
+  165  magick identify -format c0001.mp4
+  166  ffmpeg -i c0001.mp4 -map0 0 -c copy -metadata timecode="02:11:11:00" c0001a.mp4
+  167  ffmpeg -i c0001.mp4 -map0 -c copy -metadata timecode="02:11:11:00" c0001a.mp4
+  168  ffmpeg -i c0001.mp4 -map 0 -c copy -metadata timecode="02:11:11:00" c0001a.mp4
+  169  mc
+  170  ffmpeg -i c0001.mp4 -map 0:2 -c copy -metadata timecode="02:11:11:00" c0001a.mp4
+  171  ffmpeg -i c0001.mp4 -map 0 -c copy -metadata timecode="02:11:11:00" c0001a.mp4
+  172  ffprobe
+  173  ffprobe -i c0001.mp4
+  174  pip3 install PyExifTool
+  175  ls
+  176  python3
+  177  ls
+  178  exiftool c0001.mp4
+  179   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60553 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  180  source /Users/radek/opt/anaconda3/bin/activate
+  181  conda activate base
+  182   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 61342 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  183   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 61385 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  184   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 61645 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  185   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62225 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  186   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62259 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  187   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62326 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  188   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62351 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  189   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62381 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  190  source /Users/radek/opt/anaconda3/bin/activate
+  191  conda activate base
+  192   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63309 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  193   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63330 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  194   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63359 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  195  source /Users/radek/opt/anaconda3/bin/activate
+  196  conda activate base
+  197   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 51002 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  198   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 58508 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  199   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60885 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  200   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62523 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  201   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62593 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  202   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62631 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  203   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62655 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  204   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62766 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  205   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62791 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  206   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62843 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  207   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62899 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  208   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62911 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  209   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 62935 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  210   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63260 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  211   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63287 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  212   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63389 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  213   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63404 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  214   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63464 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  215   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63496 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  216   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63547 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  217   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63581 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  218   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63625 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  219   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63679 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  220   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63711 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  221   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63743 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  222   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63775 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  223   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63812 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  224   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63867 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  225   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63912 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  226   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 63995 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  227   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64053 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  228   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64115 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  229   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64150 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  230   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64199 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  231   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64286 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  232   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64318 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  233   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64355 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  234   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64388 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  235   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64441 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  236   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 64463 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  237  source /Users/radek/opt/anaconda3/bin/activate
+  238  conda activate base
+  239   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 50790 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  240  source /Users/radek/opt/anaconda3/bin/activate
+  241   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54030 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  242  conda activate base
+  243   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54495 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  244   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54513 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  245   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54545 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  246   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54570 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  247   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54603 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  248   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54633 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  249   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54677 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  250   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54788 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  251   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54856 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  252  source /Users/radek/opt/anaconda3/bin/activate
+  253   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 54833 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  254  source /Users/radek/opt/anaconda3/bin/activate
+  255  conda activate base
+  256   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 49969 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  257   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 52980 -- /Users/radek/tmp/bcl/ndi-python/example/send_png.py 
+  258   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59181 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  259   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59610 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  260   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59632 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  261   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59652 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  262   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59675 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  263   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59692 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  264   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59744 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  265   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59778 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  266   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59800 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  267   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59914 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  268   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59944 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  269   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 59987 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  270   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60015 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  271   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60040 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  272   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60070 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  273   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60101 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  274   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60189 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  275   cd /Users/radek/tmp/bcl/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 60217 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  276  source /Users/radek/opt/anaconda3/bin/activate
+  277   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.11.371526539/pythonFiles/lib/python/debugpy/launcher 55122 -- /Users/radek/tmp/bcl/ndi-python/example/clock.py 
+  278  conda activate base
+  279  ndi
+  280  /Users/radek/ndi-python/example/clock ; exit;
+  281  /Users/radek/ndi-python/example/clock ; exit;
+  282  /Users/radek/ndi-python/example/clock ; exit;
+  283  /Users/radek/ndi-python/example/clock ; exit;
+  284  /Users/radek/ndi-python/example/clock ; exit;
+  285  /Users/radek/ndi-python/example/clock ; exit;
+  286  /Users/radek/ndi-python/example/clock21/clock ; exit;
+  287  /Users/radek/ndi-python/example/clock21/clock ; exit;
+  288  /Users/radek/ndi-python/example/clock21/clock ; exit;
+  289  /Users/radek/ndi-python/example/clock1 ; exit;
+  290  /Users/radek/ndi-python/example/clock21/clock ; exit;
+  291  ./clock.bin
+  292  ./clock
+  293  python3 -m nuitka --standalone --follow-imports clock.py
+  294  python3 -m nuitka --standalone --follow-imports --plugin-enable=numpy --plugin-enable=qt-plugins --plugin-enable=pylint-warnings clock.py
+  295  conda activate base
+  296  mc
+  297  sudo mc
+  298  pip3 install -U nuitka
+  299  python3 -m nuitka
+  300  python3 -m nuitka --follow-imports clock.py
+  301  ls
+  302  cd ndi-python/
+  303  ls
+  304  cd example/
+  305  ls
+  306  python3 -m nuitka --follow-imports clock.py
+  307  mc
+  308  ls
+  309  npm
+  310  brew install node
+  311  npm -v
+  312  npm install -g appdmg
+  313  appdmg
+  314  appdmg test/assets/appdmg.json ~/Desktop/test.dmg
+  315  ls
+  316  ffmpeg -i 
+  317  http://watchmust.com:80/get.php?username=RadekPol&password=XA8xcY6GqY&type=m3u_plus&output=ts
+  318  ffmpeg -i 
+  319  ping watchmust.com
+  320  mc
+  321  cd ~
+  322  cd documents
+  323  cd sources/
+  324  cd m3usplitter
+  325  ls
+  326  python3 m3usplit.py -i 20210101.m3u -o 21pl.m3u
+  327  python3 m3usplit.py -i 20210101.m3u -o 21rn.m3u
+  328  cd ~
+  329  cd documents
+  330  cd aws
+  331   ssh -i "RadioTest2EUAWS.pem" ubuntu@ec2-35-157-236-145.eu-central-1.compute.amazonaws.com
+  332   ssh -i "RadioTest2EUAWS.pem" ubuntu@ec2-35-157-236-145.eu-central-1.compute.amazonaws.com
+  333  ssh -i "RadioTest2EUAWS.pem" ubuntu@ec2-35-157-236-145.eu-central-1.compute.amazonaws.com
+  334  ssh -i "RadioTest2EUAWS.pem" ubuntu@ec2-35-157-236-145.eu-central-1.compute.amazonaws.com
+  335  /Users/radek/ndi-python/example/clock1 ; exit;
+  336  /Users/radek/ndi-python/example/clock1 ; exit;
+  337  docker run --name repo alpine/git clone https://github.com/docker/getting-started.git
+  338  docker cp repo:/git/getting-started/ .
+  339  cd getting-started 
+  340   docker build -t docker101tutorial . 
+  341  docker run -d -p 80:80 --name docker-tutorial docker101tutorial
+  342  /Users/radek/Desktop/Kext-Updates/AppleALC/alc-verb ; exit;
+  343  ioreg -rxn IOHDACodecDevice | grep VendorID
+  344  bdmesg
+  345  bdmesg
+  346  python3 send_png.py
+  347  tt
+  348  python3 send_png.py
+  349  docker run -it --rm --name clock -v "$PWD":~/ndi-python/source -w ~/ndi-python/source python:3 python send_png.py
+  350  docker run -it --rm --name clock -v "$PWD":/users/radek/ndi-python/source -w /users/radek/ndi-python/source python:3 python send_png.py
+  351  pip freeze > requirements.txt
+  352  docker run -it --rm --name clock send_png
+  353  docker run -it --rm --name my-running-app my-python-app
+  354  docker build -t my-python-app
+  355  docker build -t dockerfile
+  356  docker build -t dockerfile.txt
+  357  docker build -t ./dockerfile.txt
+  358  docker build -t ./dockerfil
+  359  docker build -t ./dockerfile
+  360  docker build -t clock
+  361  docker build -t /users/radek/ndi-python/source/clock
+  362  docker build /users/radek/ndi-python/source/clock
+  363  docker build /users/radek/ndi-python/source/
+  364  docker build -t /users/radek/ndi-python/source/
+  365  docker -t build /users/radek/ndi-python/source/
+  366  docker build /users/radek/ndi-python/source/
+  367  ls
+  368  exit
+  369  docker build /users/radek/ndi-python/source/
+  370  docker pull python
+  371  mc
+  372  pip
+  373  pip3 freeze
+  374  python3
+  375  mc
+  376  chmod 400 radekFotosite.pem
+  377  ls
+  378  cd aws
+  379  chmod 400 radekFotosite.pem
+  380  ssh -i "radekFotosite.pem" ubuntu@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  381  cd documents
+  382  cd aws
+  383       ssh -i "radekFotosite.pem" root@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  384  ssh -i "radekFotosite.pem" ubuntu@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  385  ssh -i "radekFotosite.pem" root@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  386  ssh -i "radekFotosite.pem" root@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  387  mc
+  388  source /Users/radek/opt/anaconda3/bin/activate
+  389  conda activate base
+  390   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/lib/python/debugpy/launcher 55893 -- /Users/radek/ndi-python/example/clock.py 
+  391   cd /Users/radek/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/lib/python/debugpy/launcher 55908 -- /Users/radek/ndi-python/example/send_png.py 
+  392   cd /Users/radek/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/lib/python/debugpy/launcher 56748 -- /Users/radek/ndi-python/example/clock.py 
+  393   cd /Users/radek/ndi-python/example ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2020.12.424452561/pythonFiles/lib/python/debugpy/launcher 56755 -- /Users/radek/ndi-python/example/clock.py 
+  394  ls
+  395  cd ..
+  396  cd ..
+  397  cd ndi-python/
+  398  ls
+  399  cd example/
+  400  ls
+  401  python3 clock.py
+  402  ls
+  403  cd 
+  404  cd ..
+  405  cd clk
+  406  ls
+  407  cd ~
+  408  cd ndi-python/
+  409  cd clk
+  410  python3 clock.py
+  411  source /Users/radek/opt/anaconda3/bin/activate
+  412  conda activate base
+  413   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 60471 -- /Users/radek/clk/clock.py 
+  414  ls
+  415  pip3 freeze > requirements.txt
+  416  ls
+  417  cd documents
+  418  cd aws
+  419  ssh -i "radekFotosite.pem" root@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  420  ssh -i "radekFotosite.pem" ubuntu@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  421  source /Users/radek/opt/anaconda3/bin/activate
+  422   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 50126 -- /Users/radek/clk/clock.py 
+  423  conda activate base
+  424   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 50172 -- /Users/radek/clk/clock.py 
+  425   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 50209 -- /Users/radek/clk/clock.py 
+  426   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 50288 -- /Users/radek/clk/clock.py 
+  427   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 50337 -- /Users/radek/clk/clock.py 
+  428   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 50361 -- /Users/radek/clk/clock.py 
+  429  source /Users/radek/opt/anaconda3/bin/activate
+  430  conda activate base
+  431   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 51492 -- /Users/radek/clk/clock.py 
+  432   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 51581 -- /Users/radek/clk/clock.py 
+  433   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 57753 -- /Users/radek/clk/clock.py 
+  434   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 57771 -- /Users/radek/clk/clock.py 
+  435   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 57955 -- /Users/radek/clk/clock.py 
+  436  `
+  437  `c
+  438  q
+  439  a
+  440   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 58020 -- /Users/radek/clk/clock.py 
+  441   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 58036 -- /Users/radek/clk/clock.py 
+  442  ipconfig
+  443  ssh -i "radekFotosite.pem" ubuntu@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  444  ssh -i "radekFotosite.pem" ubuntu@ec2-18-197-141-229.eu-central-1.compute.amazonaws.com
+  445  python3
+  446  /Users/radek/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  447  /Users/radek/opt/anaconda3/bin/jupyter_mac.command ; exit;
+  448  source /Users/radek/opt/anaconda3/bin/activate
+  449  conda activate base
+  450   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56324 -- /Users/radek/clk/ticker.py 
+  451   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56437 -- /Users/radek/clk/ticker.py 
+  452   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56483 -- /Users/radek/clk/ticker.py 
+  453   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56551 -- /Users/radek/clk/ticker.py 
+  454   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56608 -- /Users/radek/clk/ticker.py 
+  455   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56683 -- /Users/radek/clk/ticker.py 
+  456   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56716 -- /Users/radek/clk/ticker.py 
+  457   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56823 -- /Users/radek/clk/ticker.py 
+  458   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56855 -- /Users/radek/clk/ticker.py 
+  459   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 56895 -- /Users/radek/clk/ticker.py 
+  460  source /Users/radek/opt/anaconda3/bin/activate
+  461   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.1.502429796/pythonFiles/lib/python/debugpy/launcher 64098 -- /Users/radek/clk/clock.py 
+  462  conda activate base
+  463  source /Users/radek/opt/anaconda3/bin/activate
+  464  conda activate base
+  465   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63263 -- /Users/radek/clk/clkloc.py 
+  466  source /Users/radek/opt/anaconda3/bin/activate
+  467   /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 62990 -- /Users/radek/clk/clkloc.py 
+  468  conda activate base
+  469   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63068 -- /Users/radek/clk/clkloc.py 
+  470  dffdd
+  471   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63077 -- /Users/radek/clk/clkloc.py 
+  472   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63248 -- /Users/radek/clk/clkloc.py 
+  473   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63310 -- /Users/radek/clk/clkloc.py 
+  474   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63385 -- /Users/radek/clk/clock.py 
+  475   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 63493 -- /Users/radek/clk/clkloc.py 
+  476   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64299 -- /Users/radek/clk/clkloc.py 
+  477   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64331 -- /Users/radek/clk/clkloc.py 
+  478   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64363 -- /Users/radek/clk/clkloc.py 
+  479   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64419 -- /Users/radek/clk/clkloc.py 
+  480   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64450 -- /Users/radek/clk/clkloc.py 
+  481   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64472 -- /Users/radek/clk/clkloc.py 
+  482   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64507 -- /Users/radek/clk/clkloc.py 
+  483   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64529 -- /Users/radek/clk/clkloc.py 
+  484   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64554 -- /Users/radek/clk/clkloc.py 
+  485   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64601 -- /Users/radek/clk/clkloc.py 
+  486   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64634 -- /Users/radek/clk/clkloc.py 
+  487   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64680 -- /Users/radek/clk/clkloc.py 
+  488   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64710 -- /Users/radek/clk/clkloc.py 
+  489   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64774 -- /Users/radek/clk/clkloc.py 
+  490   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64828 -- /Users/radek/clk/clkloc.py 
+  491   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64860 -- /Users/radek/clk/clkloc.py 
+  492   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64937 -- /Users/radek/clk/clkk.py 
+  493   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 64990 -- /Users/radek/clk/clkloc.py 
+  494   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 65027 -- /Users/radek/clk/clkloc.py 
+  495   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 65069 -- /Users/radek/clk/clkloc.py 
+  496   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 65097 -- /Users/radek/clk/clkloc.py 
+  497   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 65122 -- /Users/radek/clk/clkloc.py 
+  498   cd /Users/radek/clk ; /usr/bin/env /Users/radek/opt/anaconda3/bin/python /Users/radek/.vscode/extensions/ms-python.python-2021.2.582707922/pythonFiles/lib/python/debugpy/launcher 65149 -- /Users/radek/clk/clkloc.py 
+  499  python3 clkloc.py
+  500  dir
+  501  ls
+  502  python3 clkk.py
+  503  python3 clkloc.py
+  504  cython clkloc.py
+  505  cython
+  506  history >hist.txt
